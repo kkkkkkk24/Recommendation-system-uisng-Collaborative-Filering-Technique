@@ -1,0 +1,14 @@
+Overview
+
+This project implements a Recommendation System using Collaborative Filtering. 
+The model predicts user preferences based on historical interactions and provides personalized recommendations. 
+Collaborative filtering leverages the similarity between users or items to generate suggestions, making it one of the most widely used approaches in industry 
+(e.g., Netflix, Amazon, Spotify).
+
+Features
+
+User-based and Item-based Collaborative Filtering
+Matrix Factorization (optional if included in your notebook)
+Handles missing ratings with similarity-based predictions
+Generates top-N recommendations for users
+Jupyter Notebook with step-by-step explanation
